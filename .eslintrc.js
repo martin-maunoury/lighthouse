@@ -5,6 +5,8 @@
  */
 'use strict';
 
+YO LES BOUSES
+
 module.exports = {
   // start with google standard style
   //     https://github.com/google/eslint-config-google/blob/master/index.js
